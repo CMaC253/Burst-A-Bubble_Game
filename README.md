@@ -6,6 +6,5 @@ C# Project
 
   
 ```
-Open any file with the ".cs" extension to see the several objects used in the game and Program.cs 
-in the top folder to analyze the code written by me
+Open any file with the ".cs" extension to see the several objects used in the game.
 ```
